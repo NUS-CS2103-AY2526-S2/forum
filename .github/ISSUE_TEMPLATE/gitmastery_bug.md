@@ -1,3 +1,4 @@
+---
 name: "\U0001F41D Git-Mastery Bug report"
 description: File a bug report with the Git-Mastery team
 title: "[Git-Mastery] "
@@ -87,3 +88,4 @@ body:
         # Next steps
 
         The Git-Mastery team will review the issue and respond accordingly.
+---
